@@ -4,18 +4,12 @@
 지속적인 성장을 원하며, 동료들과 함께 성장할 수 있는 환경을 좋아합니다.
 
 ## Social Links
-<p>
-  <a href="https://www.linkedin.com/in/%EC%B2%A0%EC%9B%85-%EC%B5%9C-898ab4152">
-    <img src="https://img.shields.io/badge/-Linkedin-1456b6?style=flat-square&logo=linkedin" alt="LinkedIn />
-  </a>
-  <a href="https://cheolsker.tistory.com">
-    <img src="https://img.shields.io/badge/-Blog-ff8b64?style=flat-square&logo=tistory" />
-  </a>
-  <a href="https://www.notion.so/cheolsker/Portfolios-26e4b32ca20b49028c4d2ba13860420c">
-    <img src="https://img.shields.io/badge/-Portfolios-000000?style=flat-square&logo=notion" />
-  </a>
-</p>
 
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-1456b6?style=for-the-badge&logo=linkedin")](https://www.linkedin.com/in/%EC%B2%A0%EC%9B%85-%EC%B5%9C-898ab4152)
+
+[![Tistory](https://img.shields.io/badge/-Blog-ff8b64?style=for-the-badge&logo=tistory)](https://cheolsker.tistory.com)
+
+[![Portfolios](https://img.shields.io/badge/-Portfolios-db0000?style=for-the-badge&logo=notion)](https://www.notion.so/cheolsker/Portfolios-26e4b32ca20b49028c4d2ba13860420c)
 
 
 ## Tech Stack
