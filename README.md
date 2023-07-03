@@ -3,12 +3,19 @@
 개발을 통해 가치 있는 서비스를 만들어 좋은 영향력을 끼치고 싶은 생각을 가지고 있습니다. <br />
 지속적인 성장을 원하며, 동료들과 함께 성장할 수 있는 환경을 좋아합니다.
 
-## 
-<p align="center>
-  <a href="https://www.linkedin.com/in/%EC%B2%A0%EC%9B%85-%EC%B5%9C-898ab4152/">
-    <img src="https://img.shields.io/badge/-linkedin-1456b6?style=for-the-badge&logo=linkedin" alt="Linkedin" />
+## Social Links
+<p>
+  <a href="https://www.linkedin.com/in/%EC%B2%A0%EC%9B%85-%EC%B5%9C-898ab4152">
+    <img src="https://img.shields.io/badge/-Linkedin-1456b6?style=flat-square&logo=linkedin" alt="LinkedIn />
+  </a>
+  <a href="https://cheolsker.tistory.com">
+    <img src="https://img.shields.io/badge/-Blog-ff8b64?style=flat-square&logo=tistory" />
+  </a>
+  <a href="https://www.notion.so/cheolsker/Portfolios-26e4b32ca20b49028c4d2ba13860420c">
+    <img src="https://img.shields.io/badge/-Portfolios-000000?style=flat-square&logo=notion" />
   </a>
 </p>
+
 
 
 ## Tech Stack
