@@ -28,6 +28,8 @@
 ![Gitlab CI](https://img.shields.io/badge/-gitlab_ci-ff8b64?style=for-the-badge&logo=gitlab)
 ![Github Action](https://img.shields.io/badge/-github_action-db0000?style=for-the-badge&logo=github)
 ![Jest](https://img.shields.io/badge/-jest-65d786?style=for-the-badge&logo=jest)
+![Cypress](https://img.shields.io/badge/-cypress-007ACC?style=for-the-badge&logo=cypress)
+
 
 ### 관심 있는 ,,,
 ![Storybook](https://img.shields.io/badge/-storybook-f8c7da?style=for-the-badge&logo=storybook)
