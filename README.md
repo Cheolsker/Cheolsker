@@ -38,7 +38,7 @@
 
 
 ## Github Stats
-![Github Act](https://github-readme-stats.vercel.app/api?username=CheolWoongChoi&show_icons=true&theme=radical)
+![Github Act](https://github-readme-stats.vercel.app/api?username=CheolWoongChoi&show_icons=true&theme=github_dark)
 
 
 
