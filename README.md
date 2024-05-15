@@ -3,6 +3,8 @@
 개발을 통해 가치 있는 서비스를 만들어 좋은 영향력을 끼치고 싶은 생각을 가지고 있습니다. <br />
 지속적인 성장을 원하며, 동료들과 함께 성장할 수 있는 환경을 좋아합니다.
 
+<br/>
+
 ## Social Links
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-1456b6?style=for-the-badge&logo=linkedin")](https://www.linkedin.com/in/%EC%B2%A0%EC%9B%85-%EC%B5%9C-898ab4152)
@@ -11,6 +13,7 @@
 
 [![Portfolios](https://img.shields.io/badge/-Portfolios-db0000?style=for-the-badge&logo=notion)](https://www.notion.so/cheolsker/Portfolios-26e4b32ca20b49028c4d2ba13860420c)
 
+<br/>
 
 ## Tech Stack
 ### 자주 사용하는 ,,,
@@ -35,11 +38,29 @@
 ![Storybook](https://img.shields.io/badge/-storybook-f8c7da?style=for-the-badge&logo=storybook)
 ![Node.js](https://img.shields.io/badge/-node.js-65d786?style=for-the-badge&logo=node)
 
+<br/>
 
+## Activities
+
+**(2024.04 ~ )** Wepl - 사이드 프로젝트 팀 
+
+**(2024.04 ~ )** 자바카페 - 알고리즘 스터디 (자바 알고리즘 인터뷰 with 코틀린 책 참고)  
+
+**(2024.01 ~ 04)** 자바카페 - 이펙티트 타입스크립트 책 스터디  
+
+**(2023.09 - 2023.11)** 자바카페 - 실전에서 바로 쓰는 Next.js 책 스터디
+
+**(2023.04 ~ 2023.06)** FromApril - 사이드 프로젝트 팀  
+
+**(2021.12 ~ 2022.03)** 코드숨 - 코드숨 리액트 6기 교육 프로그램 참여 
+
+**(2021.04 ~ 11)** Fortuna - 스터디 그룹, 프론트엔드 및 기술서적 읽고 스터디  
+
+
+<br/>
 
 ## Github Stats
 ![Github Act](https://github-readme-stats.vercel.app/api?username=CheolWoongChoi&show_icons=true&theme=github_dark)
-
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCheolWoongChoi&count_bg=%2379C83D&title_bg=%23969090&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
