@@ -7,8 +7,6 @@
 
 ## Social Links
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-1456b6?style=for-the-badge&logo=linkedin")](https://www.linkedin.com/in/%EC%B2%A0%EC%9B%85-%EC%B5%9C-898ab4152)
-
 [![Tistory](https://img.shields.io/badge/-Blog-ff8b64?style=for-the-badge&logo=tistory)](https://cheolsker.tistory.com)
 
 [![Portfolios](https://img.shields.io/badge/-Portfolios-db0000?style=for-the-badge&logo=notion)](https://www.notion.so/cheolsker/Portfolios-26e4b32ca20b49028c4d2ba13860420c)
